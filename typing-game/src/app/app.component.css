@@ -1,0 +1,14 @@
+/* :host{
+    display: flex;
+} */
+
+.pending {
+  color: gray;
+}
+.correct{
+  color: green;
+  font-weight: bold;
+}
+.notCorrect{
+  color: red;;
+}
